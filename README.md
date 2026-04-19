@@ -19,11 +19,11 @@
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://t.me/yourname">
+<a href="https://t.me/rasul_pro">
 <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
 
-<a href="https://instagram.com/yourname">
+<a href="https://instagram.com/rasul_ssz">
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 </p>
@@ -43,10 +43,10 @@
 <p align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+src="https://github-readme-stats.vercel.app/api?saydamatovsaidrasul-lang=saydamatovsaidrasul-lang&show_icons=true&theme=tokyonight" />
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+src="https://github-readme-stats.vercel.app/api/top-langs/?saydamatovsaidrasul-lang=saydamatovsaidrasul-lang&layout=compact&theme=tokyonight" />
 
 </p>
 
@@ -54,4 +54,4 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername
 
 ## 📈 GitHub Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?saydamatovsaidrasul-lang=saydamatovsaidrasul-lang&theme=tokyo-night" />
